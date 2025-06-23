@@ -1,5 +1,11 @@
 # thirdweb
 
+## 5.104.1
+
+### Patch Changes
+
+- [#7413](https://github.com/thirdweb-dev/js/pull/7413) [`3107ba1`](https://github.com/thirdweb-dev/js/commit/3107ba1c3753352cac2f9a3d16dcdccd522b7659) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Handle non urls for metadata images in payment widgets
+
 ## 5.104.0
 
 ### Minor Changes
