@@ -89,7 +89,7 @@
     "@chromatic-com/storybook": "4.0.0",
     "@next/bundle-analyzer": "15.3.3",
     "@next/eslint-plugin-next": "15.3.3",
-    "@playwright/test": "1.53.0",
+    "@playwright/test": "1.55.1",
     "@storybook/addon-docs": "9.0.8",
     "@storybook/addon-links": "9.0.8",
     "@storybook/addon-onboarding": "9.0.8",
