@@ -39,7 +39,7 @@
     "color": "5.0.0",
     "compare-versions": "^6.1.0",
     "date-fns": "4.1.0",
-    "fast-xml-parser": "^5.2.5",
+    "fast-xml-parser": "^5.3.8",
     "framer-motion": "12.17.0",
     "fuse.js": "7.1.0",
     "input-otp": "^1.4.1",
